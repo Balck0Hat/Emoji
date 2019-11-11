@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Emoji.iml" filepath="$PROJECT_DIR$/.idea/Emoji.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emoji-library/emoji-library.iml" filepath="$PROJECT_DIR$/emoji-library/emoji-library.iml" />
     </modules>
   </component>
 </project>
