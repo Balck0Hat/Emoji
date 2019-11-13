@@ -20,10 +20,12 @@ android {
             minifyEnabled false
         }
     }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
 }
 
 dependencies {
     implementation project(path: ':emoji-library')
-//    implementation project(':emoji-library', ':emoji-library')
-    //compile 'com.android.support:appcompat-v7:25.3.1'
 }
